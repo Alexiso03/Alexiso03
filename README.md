@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alexiso03
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Neural Networks
+- 👋 Hi, I’m @Alexiso03 aka Bipin Kumar Singh
+- 📊📈 I’m interested in Data Science & Analytics
+- 📙 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on different projects
 - 📫 To reach me contact at bips0311@gmail.com
 
